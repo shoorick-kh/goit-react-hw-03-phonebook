@@ -1,0 +1,22 @@
+.form {
+  display: inline-block;
+  width: 500px;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.label {
+  color: blue;
+}
+
+.input {
+  display: flex;
+  width: 250px;
+}
+
+.button {
+  margin: 10px;
+  background-color: rgb(214, 180, 245);
+  font-weight: 600;
+  width: 100px;
+}
